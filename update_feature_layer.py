@@ -4,8 +4,8 @@ from datetime import datetime
 
 def update_maintenance_dates():
     # Replace with your ArcGIS Online account credentials
-    username = 'your_username'
-    password = 'your_password'
+    username = 'GISGreendrop'
+    password = 'Greendrop01'
 
     # URL of your hosted feature layer
     feature_layer_url = 'https://services8.arcgis.com/HQs4mlvbVkaKMcl1/arcgis/rest/services/wpg_trees_2023/FeatureServer/0'
